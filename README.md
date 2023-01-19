@@ -33,6 +33,7 @@
 - Caio Buarque de Gusmao
 - Wilson J. M. Freitas
 - Luis Felipe Mota
+- Maria Geyzianny de Sousa Silva
 - Ismael Benjamim da Silva Barros
 - Emmanuel De Luca Teixeira Da Silva
 - Júlia Arnaud de Melo Fragoso
